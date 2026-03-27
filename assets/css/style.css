@@ -3670,7 +3670,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 .main_menu_list {
-  gap: 46px;
+  gap: 45px;
 }
 .main_menu_list > li > .nav-link {
   gap: 4px;
